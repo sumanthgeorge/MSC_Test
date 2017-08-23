@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <asp:Button runat+"server" Text ="Click Me"/>
+        <asp:Button runat+"server" Text ="Dont Click"/>
     </div>
     </form>
 </body>
